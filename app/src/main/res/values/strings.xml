@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Talk</string>
+    <string name="login_button">Verify With OTP</string>
+    <string name="profile_setup_button">Continue</string>
+    <string name="otp_button">Verify</string>
+    <string name="phone_number">\u0020\u0020Phone number</string>
+    <string name="setup_name">Your name</string>
+    <string name="profile_setup_hint">Please provide you name and set optional profile picture</string>
+    <string name="login_verification_hint">Register with Phone Number</string>
+    <string name="_91">+91</string>
+</resources>
